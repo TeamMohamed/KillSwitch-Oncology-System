@@ -52,7 +52,7 @@ Name: Anwar Mohamed
 
 ## 🧠 Citation Format
 
-> Mohamed, Anwar. *KillSwitch-Oncology-System: A Quantum-Integrated Therapeutic Framework for Cancer Termination.* Zenodo, 2025. DOI: [Your DOI Here]
+> Mohamed, Anwar. *KillSwitch-Oncology-System: A Quantum-Integrated Therapeutic Framework for Cancer Termination.* Zenodo, 2025. DOI: 10.5281/zenodo.15213792
 
 ---
 
