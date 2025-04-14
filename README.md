@@ -1,4 +1,4 @@
-# CancerControl_AI_ECS_Matrix
+# # KillSwitch-Oncology-System
 Precision oncology system integrating ECS, quantum, miRNA, and AI-tuned PCD triggers — for clinical, research, or SaaS deployment.
 This repository contains the framework, datasets, and tactical overlays for a multi-hallmark, multi-PCD oncology kill system. Designed as a clinical-grade weapon against all known cancer resistance mechanisms, this system integrates:
 
