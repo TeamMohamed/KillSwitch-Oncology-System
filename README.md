@@ -45,7 +45,7 @@ This repository contains the framework, datasets, and tactical overlays for a mu
 
 For commercial licensing, partnership inquiries, or therapeutic deployment rights:  
 Name: Anwar Mohamed  
-📧 ecsssignalling@gmail.com  
+📧 TeamMohamed@proton.me 
 🔗 https://creativecommons.org/licenses/by-nc/4.0/
 
 ---
